@@ -1,3 +1,4 @@
+const headQuaters = 42;
 function distanceFromHqInBlocks(location){
   return Math.abs(location - headQuaters)
 }
